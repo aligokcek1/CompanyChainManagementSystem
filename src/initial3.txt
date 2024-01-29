@@ -1,0 +1,4 @@
+Gaziantep, Islahiye, Memduha Er, CASHIER
+Gaziantep, Islahiye, Ferhat Yildiz, COOK
+Gaziantep, Islahiye, Eser Demirci, COURIER
+Gaziantep, Islahiye, Hanedan Akpinar, MANAGER

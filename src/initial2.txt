@@ -1,0 +1,4 @@
+Antalya, Konyaalti, Berat Yılmaz, CASHIER
+Antalya, Konyaalti, Eray Eroglu, COOK
+Antalya, Konyaalti, Emre Bagdemir, COURIER
+Antalya, Konyaalti, Yigit Yildiz, MANAGER

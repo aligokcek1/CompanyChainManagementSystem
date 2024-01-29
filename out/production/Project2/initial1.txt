@@ -1,0 +1,8 @@
+Diyarbakir, Dicle, Canela Temel, CASHIER
+Diyarbakir, Dicle, Bergen Uzun, COOK
+Diyarbakir, Dicle, Bahar Er, COURIER
+Diyarbakir, Dicle, Bahariye Toprak, MANAGER
+Diyarbakir, Dicle, Acer Aksoy, COOK
+Diyarbakir, Dicle, Canfeza Kilic, CASHIER
+Diyarbakir, Dicle, Canhanım Erkan, COURIER
+Diyarbakir, Dicle, Cavlan Dag, COOK

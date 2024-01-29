@@ -1,0 +1,11 @@
+January:
+PERFORMANCE_UPDATE: Gaziantep, Islahiye, Memduha Er, 921
+PERFORMANCE_UPDATE: Gaziantep, Islahiye, Ferhat Yildiz, 1650
+PERFORMANCE_UPDATE: Gaziantep, Islahiye, Hanedan Akpinar, -721
+
+February:
+PERFORMANCE_UPDATE: Gaziantep, Islahiye, Hanedan Akpinar, -1021
+PERFORMANCE_UPDATE: Gaziantep, Islahiye, Ferhat Yildiz, 650
+PRINT_MANAGER: Gaziantep, Islahiye
+ADD: Gaziantep, Islahiye, Memduha Er2, CASHIER
+PRINT_MANAGER: Gaziantep, Islahiye

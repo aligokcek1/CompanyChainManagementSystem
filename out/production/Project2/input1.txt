@@ -1,0 +1,28 @@
+January:
+LEAVE: Diyarbakir, Dicle, Canfeza Kilic
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Acer Aksoy, 1955
+ADD: Diyarbakir, Dicle, Acarbike Buyuk, COURIER
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Canela Temel, 385
+ADD: Diyarbakir, Dicle, Canfeda Ozturk, COOK
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Canhanım Erkan, -139
+PRINT_MONTHLY_BONUSES: Diyarbakir, Dicle
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Cavlan Dag, 1563
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Bahar Er, 1167
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Bahariye Toprak, -470
+LEAVE: Diyarbakir, Dicle, Bahar Er
+
+February:
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Bergen Uzun, -1000
+ADD: Diyarbakir, Dicle, Dayehatun Yildirim, COOK
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Acer Aksoy, 1803
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Bahariye Toprak, -650
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Bahar Er, 2396
+PRINT_MANAGER: Diyarbakir, Dicle
+LEAVE: Diyarbakir, Dicle, Bergen Uzun
+ADD: Diyarbakir, Dicle, Gamze Seker, COOK
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Canela Temel, -889
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Canfeza Kilic, -501
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Canhanım Erkan, 1737
+LEAVE: Diyarbakir, Dicle, Bahariye Toprak
+PERFORMANCE_UPDATE: Diyarbakir, Dicle, Cavlan Dag, 1506
+PRINT_MONTHLY_BONUSES: Diyarbakir, Dicle

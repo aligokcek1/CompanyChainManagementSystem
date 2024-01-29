@@ -1,0 +1,33 @@
+January:
+PERFORMANCE_UPDATE: Istanbul, Besiktas, Canay Toprak, 2012
+PERFORMANCE_UPDATE: Istanbul, Kadikoy, Canay Toprak, 514
+PRINT_MONTHLY_BONUSES: Istanbul, Besiktas
+PRINT_MONTHLY_BONUSES: Istanbul, Kadikoy
+
+February:
+ADD: Canakkale, Merkez, Cahide Balta, CASHIER
+ADD: Istanbul, Kadikoy, Cahide Balta, COOK
+PERFORMANCE_UPDATE: Canakkale, Merkez, Beliz Ipek, 601
+PRINT_MONTHLY_BONUSES: Canakkale, Merkez
+
+March:
+PERFORMANCE_UPDATE: Edirne, Merkez, Can Erkan, 2197
+PERFORMANCE_UPDATE: Edirne, Merkez, Alara Uzun, -1001
+LEAVE: Istanbul, Kadikoy, Cankat Dede, COOK
+LEAVE: Istanbul, Besiktas, Beliz Aktas, MANAGER
+PRINT_MANAGER: Istanbul, Besiktas
+PRINT_MONTHLY_BONUSES: Canakkale, Merkez
+
+April:
+PERFORMANCE_UPDATE: Istanbul, Besiktas, Canay Toprak, -513
+ADD:  Istanbul, Kadikoy, Irem Alagoz, COOK
+LEAVE: Istanbul, Kadikoy, Cahide Balta, COOK
+PRINT_OVERALL_BONUSES: Istanbul, Besiktas
+PRINT_OVERALL_BONUSES: Canakkale, Merkez
+
+May:
+PERFORMANCE_UPDATE: Edirne, Merkez, Ayla Ay, 2009
+PERFORMANCE_UPDATE: Istanbul, Kadikoy, Cahide Balta, 712
+ADD: Edirne, Merkez, Arda Kahraman, COOK
+PRINT_MANAGER: Edirne, Merkez
+PRINT_OVERALL_BONUSES: Istanbul, Kadikoy

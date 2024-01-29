@@ -1,0 +1,280 @@
+January:
+ADD: Bingol, Adakli, Gaffar Cengiz, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canaş Toprak, 556
+ADD: Bingol, Adakli, Cankat Aktas, CASHIER
+PERFORMANCE_UPDATE: Bingol, Adakli, Asuman Kilicaslan, 1337
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, 583
+PRINT_MANAGER: Bingol, Adakli
+PERFORMANCE_UPDATE: Bingol, Adakli, Cemalnur Ari, -968
+ADD: Istanbul, Avcilar, Ekim Cetin, CASHIER
+
+February:
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Ekim Cetin, 721
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Acem Kara, -955
+PRINT_MANAGER: Bingol, Adakli
+PERFORMANCE_UPDATE: Bingol, Adakli, Cannur Mengi, 823
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, -431
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, -846
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, -161
+PERFORMANCE_UPDATE: Bingol, Adakli, Cemalnur Ari, 160
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, 1372
+PERFORMANCE_UPDATE: Bingol, Adakli, Bahise Uzun, 913
+PERFORMANCE_UPDATE: Bingol, Adakli, Caneda Yildiran, 465
+PERFORMANCE_UPDATE: Bingol, Adakli, Canane Tuncer, 1330
+PERFORMANCE_UPDATE: Bingol, Adakli, Gaffar Cengiz, 729
+LEAVE: Istanbul, Avcilar, Aylin Gul
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, 249
+PERFORMANCE_UPDATE: Bingol, Adakli, Aynur Senol, 1345
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, 1265
+PRINT_MONTHLY_BONUSES: Bingol, Adakli
+
+March:
+PRINT_OVERALL_BONUSES: Bingol, Adakli
+LEAVE: Bingol, Adakli, Benay Demirci
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, -221
+PERFORMANCE_UPDATE: Bingol, Adakli, Cannur Mengi, -42
+ADD: Istanbul, Avcilar, Kamer Aytac, COOK
+PERFORMANCE_UPDATE: Bingol, Adakli, Cemalnur Ari, -644
+PERFORMANCE_UPDATE: Bingol, Adakli, Asuman Kilicaslan, 1225
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, -754
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, -325
+PRINT_MONTHLY_BONUSES: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Ekim Cetin, 315
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, 1488
+LEAVE: Bingol, Adakli, Gaffar Cengiz
+LEAVE: Bingol, Adakli, Canane Tuncer
+LEAVE: Istanbul, Avcilar, Kamer Aytac
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, 728
+PERFORMANCE_UPDATE: Bingol, Adakli, Caneda Yildiran, 1174
+LEAVE: Bingol, Adakli, Bahise Uzun
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canaş Toprak, 735
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Bala Cengiz, -316
+PERFORMANCE_UPDATE: Bingol, Adakli, Canipek Kilicaslan, 1273
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Acem Kara, -586
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Celvetiye Temel, 1364
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aygül Temel, -208
+LEAVE: Bingol, Adakli, Cankat Aktas
+
+April:
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, -499
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Ekim Cetin, 145
+ADD: Bingol, Adakli, Demirezen Mert, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, -772
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Celvetiye Temel, 422
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, 570
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, 58
+PERFORMANCE_UPDATE: Bingol, Adakli, Belgi Karakas, -375
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Bala Cengiz, 1057
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Afet Genc, 1232
+PERFORMANCE_UPDATE: Bingol, Adakli, Asuman Kilicaslan, -807
+ADD: Bingol, Adakli, Mahperi Karakas, CASHIER
+ADD: Istanbul, Avcilar, Ebecen Ozdemir, COOK
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, -300
+PRINT_MONTHLY_BONUSES: Bingol, Adakli
+PERFORMANCE_UPDATE: Bingol, Adakli, Aynur Senol, -6
+PRINT_OVERALL_BONUSES: Istanbul, Avcilar
+ADD: Istanbul, Avcilar, Hades Nas, COOK
+LEAVE: Istanbul, Avcilar, Celvetiye Temel
+ADD: Bingol, Adakli, Mahperi Alp, COURIER
+PERFORMANCE_UPDATE: Bingol, Adakli, Cannur Mengi, -426
+ADD: Istanbul, Avcilar, Aytekin Dag, COOK
+PERFORMANCE_UPDATE: Bingol, Adakli, Caneda Yildiran, -777
+LEAVE: Bingol, Adakli, Asuman Kilicaslan
+
+May:
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, 245
+PERFORMANCE_UPDATE: Bingol, Adakli, Cemalnur Ari, 504
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Ebecen Ozdemir, -215
+PERFORMANCE_UPDATE: Bingol, Adakli, Demirezen Mert, -956
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, -661
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Baha Demir, 155
+PERFORMANCE_UPDATE: Bingol, Adakli, Abbase Temel, 1342
+PERFORMANCE_UPDATE: Bingol, Adakli, Cannur Mengi, 437
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, 422
+PRINT_OVERALL_BONUSES: Bingol, Adakli
+LEAVE: Istanbul, Avcilar, Hades Nas
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, -415
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Acem Kara, -974
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Bala Cengiz, 795
+LEAVE: Bingol, Adakli, Canipek Kilicaslan
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cankat Aydogan, 647
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, 1289
+
+June:
+ADD: Bingol, Adakli, Belgi Aydin, COOK
+ADD: Istanbul, Avcilar, Fermande Arslan, COOK
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, 1002
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, 557
+ADD: Bingol, Adakli, Burç Kilicarslan, COURIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, 292
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aygül Temel, -201
+LEAVE: Bingol, Adakli, Burç Kilicarslan
+PERFORMANCE_UPDATE: Bingol, Adakli, Belgi Karakas, -532
+PERFORMANCE_UPDATE: Bingol, Adakli, Cemalnur Ari, -941
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, -823
+PERFORMANCE_UPDATE: Bingol, Adakli, Demirezen Mert, 59
+PRINT_OVERALL_BONUSES: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canaş Toprak, 772
+PERFORMANCE_UPDATE: Bingol, Adakli, Mahperi Karakas, 982
+ADD: Bingol, Adakli, Fezai Elmas, COURIER
+PRINT_MONTHLY_BONUSES: Istanbul, Avcilar
+
+July:
+LEAVE: Bingol, Adakli, Cemalnur Ari
+ADD: Istanbul, Avcilar, Jade Cengiz, COOK
+LEAVE: Istanbul, Avcilar, Fermande Arslan
+PERFORMANCE_UPDATE: Bingol, Adakli, Abbase Temel, 599
+LEAVE: Istanbul, Avcilar, Cankat Aydogan
+LEAVE: Bingol, Adakli, Aynur Senol
+PERFORMANCE_UPDATE: Bingol, Adakli, Fezai Elmas, 861
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Acem Kara, -246
+PERFORMANCE_UPDATE: Bingol, Adakli, Mahperi Karakas, 573
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Baha Demir, -350
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, 215
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, -982
+PERFORMANCE_UPDATE: Bingol, Adakli, Belgi Karakas, 198
+PRINT_MONTHLY_BONUSES: Bingol, Adakli
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, -348
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aygül Temel, 31
+LEAVE: Bingol, Adakli, Cannur Mengi
+ADD: Istanbul, Avcilar, Derin Aktas, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, 679
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cankat Aydogan, -209
+PERFORMANCE_UPDATE: Bingol, Adakli, Demirezen Mert, -781
+PRINT_MANAGER: Bingol, Adakli
+PRINT_OVERALL_BONUSES: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Bingol, Adakli, Mahperi Alp, 608
+PERFORMANCE_UPDATE: Bingol, Adakli, Aynur Senol, 53
+LEAVE: Bingol, Adakli, Abdurrahman Yilmaz
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, 1160
+ADD: Bingol, Adakli, Abdurrahman Yilmaz, COOK
+LEAVE: Bingol, Adakli, Demirezen Mert
+LEAVE: Bingol, Adakli, Mahperi Karakas
+
+August:
+ADD: Istanbul, Avcilar, Erensu Erturk, CASHIER
+LEAVE: Bingol, Adakli, Fezai Elmas
+LEAVE: Istanbul, Avcilar, Aygül Temel
+LEAVE: Istanbul, Avcilar, Derin Aktas
+ADD: Bingol, Adakli, Afet Kilicaslan, COOK
+LEAVE: Istanbul, Avcilar, Baha Demir
+ADD: Istanbul, Avcilar, Ilhami Yildiran, CASHIER
+LEAVE: Bingol, Adakli, Belgi Karakas
+PERFORMANCE_UPDATE: Bingol, Adakli, Abbase Temel, 455
+LEAVE: Istanbul, Avcilar, Ebecen Ozdemir
+LEAVE: Istanbul, Avcilar, Jade Cengiz
+PRINT_OVERALL_BONUSES: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Bala Cengiz, -563
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, -153
+PERFORMANCE_UPDATE: Bingol, Adakli, Fezai Elmas, -263
+ADD: Istanbul, Avcilar, Bakiye Ceylan, COURIER
+PERFORMANCE_UPDATE: Bingol, Adakli, Mahperi Alp, 576
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canaş Toprak, 560
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, 539
+ADD: Bingol, Adakli, Ilcan Yilmaz, CASHIER
+ADD: Bingol, Adakli, Merze Ipek, COURIER
+
+September:
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, 807
+LEAVE: Istanbul, Avcilar, Belemir Kilicarslan
+ADD: Bingol, Adakli, Fecri Yuksel, COURIER
+LEAVE: Istanbul, Avcilar, Ekim Cetin
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Afet Genc, -164
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, 816
+LEAVE: Bingol, Adakli, Merze Ipek
+LEAVE: Bingol, Adakli, Caneda Yildiran
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Erensu Erturk, 1436
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, 363
+LEAVE: Istanbul, Avcilar, Bala Cengiz
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Ekim Cetin, -762
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Belemir Kilicarslan, 100
+
+October:
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Acem Kara, -694
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Bakiye Ceylan, 545
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Erensu Erturk, -530
+PERFORMANCE_UPDATE: Bingol, Adakli, Ceren Yildirim, 471
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aysun Kara, 256
+LEAVE: Bingol, Adakli, Afet Kilicaslan
+ADD: Istanbul, Avcilar, Gale Ay, COURIER
+PRINT_MANAGER: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, 874
+LEAVE: Istanbul, Avcilar, Gale Ay
+LEAVE: Bingol, Adakli, Belgi Aydin
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, 345
+PERFORMANCE_UPDATE: Bingol, Adakli, Ilcan Yilmaz, -457
+LEAVE: Istanbul, Avcilar, Aysun Kara
+
+November:
+LEAVE: Bingol, Adakli, Ilcan Yilmaz
+LEAVE: Istanbul, Avcilar, Erensu Erturk
+LEAVE: Bingol, Adakli, Fecri Yuksel
+ADD: Istanbul, Avcilar, Ecmel Gul, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Erensu Erturk, 1393
+LEAVE: Istanbul, Avcilar, Ayvaz Tasdemir
+LEAVE: Bingol, Adakli, Hattat Uzun
+PERFORMANCE_UPDATE: Bingol, Adakli, Belde Kocaman, 820
+PRINT_MONTHLY_BONUSES: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Ilhami Yildiran, -884
+ADD: Istanbul, Avcilar, Canperver Yildiran, COOK
+ADD: Bingol, Adakli, Hattat Uzun, COOK
+ADD: Istanbul, Avcilar, Ayvaz Tasdemir, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Cannur Nas, -83
+LEAVE: Istanbul, Avcilar, Acem Kara
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Canipek Demirci, -829
+ADD: Istanbul, Avcilar, Irak Ozen, COOK
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aytekin Dag, -624
+LEAVE: Istanbul, Avcilar, Bakiye Ceylan
+LEAVE: Istanbul, Avcilar, Ilhami Yildiran
+LEAVE: Bingol, Adakli, Abbase Temel
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Bakiye Ceylan, 866
+LEAVE: Istanbul, Avcilar, Canipek Demirci
+PERFORMANCE_UPDATE: Bingol, Adakli, Abbase Temel, -847
+
+December:
+ADD: Bingol, Adakli, Darin Yildirim, COOK
+PERFORMANCE_UPDATE: Bingol, Adakli, Mahperi Alp, -905
+LEAVE: Bingol, Adakli, Ceren Yildirim
+LEAVE: Istanbul, Avcilar, Canaş Toprak
+LEAVE: Istanbul, Avcilar, Ecmel Gul
+ADD: Bingol, Adakli, Hacı Dagdelen, CASHIER
+ADD: Bingol, Adakli, Isinkan Acar, CASHIER
+PRINT_MONTHLY_BONUSES: Istanbul, Avcilar
+LEAVE: Istanbul, Avcilar, Canperver Yildiran
+LEAVE: Bingol, Adakli, Deran Mengi
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Irak Ozen, -123
+LEAVE: Bingol, Adakli, Isinkan Acar
+LEAVE: Istanbul, Avcilar, Afet Genc
+LEAVE: Bingol, Adakli, Hacı Dagdelen
+ADD: Bingol, Adakli, Erdibike Acar, CASHIER
+ADD: Bingol, Adakli, Deran Mengi, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Aytekin Dag, -463
+ADD: Bingol, Adakli, Haktan Demir, COURIER
+
+January:
+ADD: Istanbul, Avcilar, Egealp Cebeci, COURIER
+PERFORMANCE_UPDATE: Bingol, Adakli, Mahperi Alp, 317
+ADD: Bingol, Adakli, Gazele Toker, COURIER
+PRINT_MANAGER: Istanbul, Avcilar
+PERFORMANCE_UPDATE: Bingol, Adakli, Erdibike Acar, 563
+ADD: Istanbul, Avcilar, Iraz Yuksel, COOK
+PERFORMANCE_UPDATE: Bingol, Adakli, Darin Yildirim, 335
+ADD: Istanbul, Avcilar, Lerze Yigit, COURIER
+ADD: Istanbul, Avcilar, Halef Aydin, CASHIER
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Irak Ozen, 49
+PRINT_MONTHLY_BONUSES: Istanbul, Avcilar
+ADD: Bingol, Adakli, Dirok Dagdelen, COURIER
+LEAVE: Bingol, Adakli, Darin Yildirim
+
+February:
+LEAVE: Bingol, Adakli, Belde Kocaman
+PERFORMANCE_UPDATE: Bingol, Adakli, Haktan Demir, -443
+LEAVE: Bingol, Adakli, Gazele Toker
+PRINT_MONTHLY_BONUSES: Bingol, Adakli
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Iraz Yuksel, 946
+LEAVE: Istanbul, Avcilar, Iraz Yuksel
+LEAVE: Istanbul, Avcilar, Cannur Nas
+LEAVE: Bingol, Adakli, Dirok Dagdelen
+PERFORMANCE_UPDATE: Istanbul, Avcilar, Egealp Cebeci, -349
+LEAVE: Istanbul, Avcilar, Aytekin Dag
+

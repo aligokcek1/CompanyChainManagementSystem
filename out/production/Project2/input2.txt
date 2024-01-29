@@ -1,0 +1,249 @@
+January:
+PRINT_MANAGER: Bingol, Merkez
+PERFORMANCE_UPDATE: Ankara, Mamak, Bakinaz Kilicarslan, 1045
+PERFORMANCE_UPDATE: Istanbul, Silivri, Bahariye Aydogan, 2316
+PERFORMANCE_UPDATE: Ankara, Gudul, Celile Tekin, 840
+PERFORMANCE_UPDATE: Istanbul, Eyup, Balkiz Durmaz, -210
+ADD: Istanbul, Eyup, Kahya Aydin, CASHIER
+PRINT_MONTHLY_BONUSES: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Bingol, Merkez, Bala Korkmaz, -52
+LEAVE: Bingol, Merkez, Ayla Yildirim
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Asli Tuncer, 1342
+PERFORMANCE_UPDATE: Istanbul, Eyup, Balkin Mengi, 2185
+PRINT_MONTHLY_BONUSES: Istanbul, Eyup
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Baha Balta, 1234
+PERFORMANCE_UPDATE: Istanbul, Silivri, Canane Yilmazer, 1141
+PRINT_MANAGER: Istanbul, Eyup
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahar Erturk, -290
+PERFORMANCE_UPDATE: Ankara, Mamak, Cannur Yasar, 223
+PERFORMANCE_UPDATE: Istanbul, Silivri, Başak Seker, 1442
+PERFORMANCE_UPDATE: Istanbul, Eyup, Adile Ozturk, -401
+PERFORMANCE_UPDATE: Ankara, Mamak, Adalet Genc, 2440
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Adalet Karakas, -384
+LEAVE: Istanbul, Gungoren, Afet Uzun
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Ceyhan Celik, 1255
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Istanbul, Silivri, Candan Yilmazer, 359
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Asli Koc, 1430
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Cannur Yuksel, 1507
+PRINT_MONTHLY_BONUSES: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Behin Mengi, 275
+PERFORMANCE_UPDATE: Ankara, Mamak, Cankat Balta, -114
+PERFORMANCE_UPDATE: Istanbul, Eyup, Başak Ekinci, 338
+PRINT_MANAGER: Ankara, Gudul
+PERFORMANCE_UPDATE: Istanbul, Eyup, Alev Oz, 640
+PERFORMANCE_UPDATE: Ankara, Mamak, Açelya Aksoy, -714
+PRINT_MANAGER: Istanbul, Silivri
+PRINT_MANAGER: Bingol, Merkez
+PERFORMANCE_UPDATE: Ankara, Gudul, Canay Yucel, 34
+PERFORMANCE_UPDATE: Ankara, Mamak, Canel Erturk, 1884
+LEAVE: Istanbul, Eyup, Kahya Aydin
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bahtiyar Gul, 1219
+PERFORMANCE_UPDATE: Istanbul, Silivri, Acem Avci, 105
+PERFORMANCE_UPDATE: Ankara, Mamak, Cankut Sahiner, 2039
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahtiser Ay, -18
+PERFORMANCE_UPDATE: Istanbul, Silivri, Cankut Karakas, -985
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Ankara, Gudul, Cankut Akbas, 870
+PERFORMANCE_UPDATE: Istanbul, Eyup, Canperver Gunes, -484
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abakay Tekin, 303
+PERFORMANCE_UPDATE: Bingol, Merkez, Adalet Akpinar, 861
+PERFORMANCE_UPDATE: Istanbul, Silivri, Bakanay Yildiz, 608
+PERFORMANCE_UPDATE: Istanbul, Eyup, Aysu Tuncer, 824
+PERFORMANCE_UPDATE: Bingol, Merkez, Behin Aydogan, -867
+PERFORMANCE_UPDATE: Bingol, Merkez, Adalet Aygun, 1711
+PERFORMANCE_UPDATE: Ankara, Mamak, Bahamra Akpinar, 1372
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Ceren Sari, 1348
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Canel Erkan, 2133
+PERFORMANCE_UPDATE: Bingol, Merkez, Celvetiye Karahan, 981
+PERFORMANCE_UPDATE: Istanbul, Eyup, Aysu Aslan, -778
+PERFORMANCE_UPDATE: Ankara, Gudul, Ajda Tuncer, 2157
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bakiye Toprak, 754
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahariye Ipek, 371
+PERFORMANCE_UPDATE: Istanbul, Eyup, Afitap Kilic, 1407
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Bahamra Aktas, 1516
+
+February:
+PERFORMANCE_UPDATE: Ankara, Mamak, Açelya Aksoy, -387
+ADD: Istanbul, Eyup, Ecem Kocak, CASHIER
+ADD: Istanbul, Gungoren, Gelincik Ucar, COOK
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Behin Karakas, 815
+PERFORMANCE_UPDATE: Istanbul, Silivri, Başak Seker, -866
+PERFORMANCE_UPDATE: Bingol, Merkez, Bahariye Aydemir, 952
+PERFORMANCE_UPDATE: Bingol, Merkez, Benan Kara, 2279
+LEAVE: Istanbul, Gungoren, Firdevsi Ceylan
+PERFORMANCE_UPDATE: Istanbul, Silivri, Benay Kucuk, -782
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Bingol, Merkez, Behin Aydogan, 294
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bakiye Toprak, 347
+ADD: Istanbul, Gungoren, Firdevsi Ceylan, COOK
+PERFORMANCE_UPDATE: Ankara, Gudul, Ajda Tuncer, -110
+ADD: Istanbul, Eyup, Duman Kocak, COURIER
+PERFORMANCE_UPDATE: Istanbul, Eyup, Balkin Mengi, 803
+PRINT_MANAGER: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Istanbul, Eyup, Canperver Gunes, -193
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Canel Erkan, 744
+PRINT_MANAGER: Bingol, Merkez
+PERFORMANCE_UPDATE: Ankara, Mamak, Can Kuru, -276
+PERFORMANCE_UPDATE: Istanbul, Eyup, Alev Oz, 1420
+LEAVE: Istanbul, Eyup, Belde Arslan
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bahar Yuksel, 1965
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Baha Balta, 195
+PERFORMANCE_UPDATE: Istanbul, Eyup, Afet Kocaman, 1086
+ADD: Bingol, Merkez, Ebrar Durmaz, COURIER
+PERFORMANCE_UPDATE: Ankara, Gudul, Arzu Kose, 586
+PRINT_MONTHLY_BONUSES: Ankara, Mamak
+PERFORMANCE_UPDATE: Istanbul, Silivri, Acem Avci, 271
+PERFORMANCE_UPDATE: Istanbul, Silivri, Cankut Karakas, 2114
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Bingol, Merkez, Alev Ozen, 641
+LEAVE: Istanbul, Eyup, Aysu Tuncer
+
+March:
+PERFORMANCE_UPDATE: Bingol, Merkez, Ceren Oz, 195
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Ankara, Mamak, Cazibe Yilmazer, 704
+PERFORMANCE_UPDATE: Ankara, Mamak, Adalet Genc, -765
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Canece Seker, 279
+PRINT_MONTHLY_BONUSES: Ankara, Mamak
+PRINT_OVERALL_BONUSES: Istanbul, Silivri
+PERFORMANCE_UPDATE: Bingol, Merkez, Bediz Aydin, 400
+PERFORMANCE_UPDATE: Bingol, Merkez, Alev Ozen, 930
+PERFORMANCE_UPDATE: Bingol, Merkez, Bahariye Aydemir, 1161
+PERFORMANCE_UPDATE: Bingol, Merkez, Banu Sarac, 963
+LEAVE: Bingol, Merkez, Ceren Oz
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abadan Cebeci, 563
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abakay Tekin, 1221
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Bakanay Kocaman, 714
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahar Erturk, 712
+PERFORMANCE_UPDATE: Bingol, Merkez, Adalet Akpinar, 494
+PERFORMANCE_UPDATE: Ankara, Mamak, Cannur Yasar, -920
+PRINT_MONTHLY_BONUSES: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Ankara, Mamak, Canane Kilic, 390
+PERFORMANCE_UPDATE: Istanbul, Silivri, Balca Saglam, 213
+PERFORMANCE_UPDATE: Istanbul, Silivri, Başak Seker, 322
+PERFORMANCE_UPDATE: Istanbul, Eyup, Adile Ozturk, 353
+PERFORMANCE_UPDATE: Ankara, Gudul, Canay Yucel, 515
+PERFORMANCE_UPDATE: Istanbul, Eyup, Afet Kocaman, 344
+PERFORMANCE_UPDATE: Istanbul, Eyup, Başak Ekinci, 1489
+PRINT_MANAGER: Ankara, Gudul
+PERFORMANCE_UPDATE: Ankara, Mamak, Cahide Alkan, 169
+PERFORMANCE_UPDATE: Ankara, Gudul, Aygül Elmas, -100
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+LEAVE: Istanbul, Silivri, Acem Avci
+PRINT_MANAGER: Istanbul, Eyup
+
+April:
+PRINT_MONTHLY_BONUSES: Ankara, Mamak
+LEAVE: Ankara, Gudul, Hakverdi Gurbuz
+PERFORMANCE_UPDATE: Istanbul, Eyup, Afitap Kilic, -972
+PERFORMANCE_UPDATE: Ankara, Gudul, Aygül Elmas, -959
+PERFORMANCE_UPDATE: Istanbul, Eyup, Balkiz Durmaz, 879
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bakiye Toprak, 274
+PERFORMANCE_UPDATE: Istanbul, Eyup, Adile Ozturk, 1775
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Bahamra Aktas, 1573
+PERFORMANCE_UPDATE: Ankara, Mamak, Cahide Alkan, -631
+PERFORMANCE_UPDATE: Bingol, Merkez, Canan Genc, 2120
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abakay Tekin, 1228
+PERFORMANCE_UPDATE: Ankara, Gudul, Cankut Akbas, 2496
+PERFORMANCE_UPDATE: Ankara, Gudul, Canay Yucel, 2110
+PERFORMANCE_UPDATE: Ankara, Mamak, Can Kuru, -981
+PRINT_MONTHLY_BONUSES: Istanbul, Silivri
+LEAVE: Istanbul, Silivri, Canane Yilmazer
+PERFORMANCE_UPDATE: Ankara, Mamak, Canel Aydin, 884
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Baha Balta, 1990
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Ceren Sari, 2049
+PERFORMANCE_UPDATE: Ankara, Mamak, Cazibe Yilmazer, -737
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Behin Mengi, 214
+PERFORMANCE_UPDATE: Ankara, Gudul, Canane Taskin, -823
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Adalet Karakas, 2436
+LEAVE: Ankara, Mamak, Bahamra Akpinar
+PERFORMANCE_UPDATE: Bingol, Merkez, Adalet Aygun, 621
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Canel Erkan, 358
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bahar Yuksel, -832
+PERFORMANCE_UPDATE: Istanbul, Eyup, Aysu Aslan, 1278
+PRINT_MONTHLY_BONUSES: Bingol, Merkez
+PERFORMANCE_UPDATE: Ankara, Mamak, Bakinaz Kilicarslan, 1257
+PRINT_MONTHLY_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Bakanay Kocaman, 2022
+PERFORMANCE_UPDATE: Ankara, Mamak, Adalet Genc, -164
+PRINT_MONTHLY_BONUSES: Bingol, Merkez
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Behin Karakas, 1047
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abadan Cebeci, 2390
+PERFORMANCE_UPDATE: Bingol, Merkez, Bahariye Aydemir, 1272
+PERFORMANCE_UPDATE: Ankara, Mamak, Cankut Sahiner, 1530
+ADD: Ankara, Gudul, Mahzure Demir, COOK
+PERFORMANCE_UPDATE: Istanbul, Eyup, Afet Kocaman, 329
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Asli Koc, -784
+PERFORMANCE_UPDATE: Istanbul, Eyup, Canperver Gunes, 803
+PERFORMANCE_UPDATE: Bingol, Merkez, Banu Sarac, 1920
+PERFORMANCE_UPDATE: Istanbul, Silivri, Benay Kucuk, 1284
+PERFORMANCE_UPDATE: Ankara, Gudul, Ajda Tuncer, 929
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Cannur Yuksel, -753
+PERFORMANCE_UPDATE: Bingol, Merkez, Alev Ozen, 371
+PERFORMANCE_UPDATE: Ankara, Gudul, Abadan Kara, 769
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abadan Gunes, 2285
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bahtiyar Gul, 2405
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahar Erturk, 844
+PERFORMANCE_UPDATE: Istanbul, Eyup, Duman Kocak, 2112
+ADD: Ankara, Gudul, Hakverdi Gurbuz, COURIER
+PERFORMANCE_UPDATE: Ankara, Mamak, Cannur Yasar, -476
+PRINT_OVERALL_BONUSES: Istanbul, Silivri
+PERFORMANCE_UPDATE: Ankara, Mamak, Canane Kilic, 176
+PERFORMANCE_UPDATE: Istanbul, Silivri, Canane Yilmazer, 1352
+PERFORMANCE_UPDATE: Istanbul, Silivri, Bahariye Aydogan, 892
+
+May:
+PERFORMANCE_UPDATE: Istanbul, Eyup, Alev Oz, 10
+PERFORMANCE_UPDATE: Bingol, Merkez, Celvetiye Karahan, -863
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Behin Karakas, -850
+PERFORMANCE_UPDATE: Istanbul, Eyup, Canperver Gunes, 1490
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abadan Cebeci, -103
+PRINT_MANAGER: Ankara, Gudul
+PERFORMANCE_UPDATE: Bingol, Merkez, Benan Kara, -831
+PERFORMANCE_UPDATE: Ankara, Mamak, Açelya Aksoy, 1801
+PERFORMANCE_UPDATE: Ankara, Gudul, Mahzure Demir, 201
+PERFORMANCE_UPDATE: Istanbul, Silivri, Bahariye Aydogan, 408
+PERFORMANCE_UPDATE: Ankara, Mamak, Cankut Sahiner, 1809
+PERFORMANCE_UPDATE: Bingol, Merkez, Adalet Akpinar, -805
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Gelincik Ucar, 1290
+PERFORMANCE_UPDATE: Istanbul, Silivri, Cankut Karakas, -725
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahtiser Aktas, 113
+PERFORMANCE_UPDATE: Bingol, Merkez, Bahariye Aydemir, -209
+PRINT_OVERALL_BONUSES: Ankara, Gudul
+PERFORMANCE_UPDATE: Ankara, Gudul, Celile Tekin, 1283
+PRINT_OVERALL_BONUSES: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Ankara, Mamak, Adalet Genc, 2423
+PERFORMANCE_UPDATE: Istanbul, Eyup, Balkiz Durmaz, 2241
+PERFORMANCE_UPDATE: Ankara, Gudul, Canela Kilicarslan, 1653
+PRINT_MONTHLY_BONUSES: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Istanbul, Silivri, Cankat Seker, 1538
+PERFORMANCE_UPDATE: Ankara, Gudul, Canay Yucel, 1016
+PERFORMANCE_UPDATE: Ankara, Mamak, Canel Aydin, 33
+PERFORMANCE_UPDATE: Istanbul, Eyup, Başak Ekinci, -241
+PRINT_OVERALL_BONUSES: Bingol, Merkez
+PERFORMANCE_UPDATE: Istanbul, Silivri, Bakanay Yildiz, -911
+PRINT_MANAGER: Istanbul, Eyup
+PERFORMANCE_UPDATE: Istanbul, Eyup, Adile Ozturk, -348
+PRINT_MONTHLY_BONUSES: Istanbul, Eyup
+PERFORMANCE_UPDATE: Istanbul, Eyup, Bahtiyar Gul, 201
+PERFORMANCE_UPDATE: Ankara, Mamak, Cankat Balta, 468
+PERFORMANCE_UPDATE: Ankara, Gudul, Cannur Aytac, 2479
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Ceyhan Celik, 1937
+PERFORMANCE_UPDATE: Ankara, Gudul, Ajda Tuncer, 1320
+PRINT_MANAGER: Bingol, Merkez
+PERFORMANCE_UPDATE: Istanbul, Eyup, Afet Kocaman, 953
+PRINT_MONTHLY_BONUSES: Bingol, Merkez
+PERFORMANCE_UPDATE: Bingol, Merkez, Adalet Aygun, 2434
+PRINT_MANAGER: Istanbul, Gungoren
+PERFORMANCE_UPDATE: Istanbul, Eyup, Aysu Aslan, -479
+PERFORMANCE_UPDATE: Ankara, Gudul, Canane Taskin, 340
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Canece Seker, 198
+PERFORMANCE_UPDATE: Istanbul, Silivri, Abakay Tekin, 1968
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Asli Tuncer, 2115
+PERFORMANCE_UPDATE: Bingol, Merkez, Alev Ozen, 819
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Bakanay Kocaman, 1089
+PERFORMANCE_UPDATE: Istanbul, Gungoren, Bahamra Aktas, 1807
+PERFORMANCE_UPDATE: Ankara, Gudul, Bahar Erturk, -220
+PERFORMANCE_UPDATE: Istanbul, Silivri, Candan Yilmazer, 399
+

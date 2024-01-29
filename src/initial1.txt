@@ -1,0 +1,16 @@
+Istanbul, Besiktas, Ayfer Alp, CASHIER
+Istanbul, Besiktas, Canay Toprak, COOK
+Istanbul, Besiktas, Aleyna Buyuk, COURIER
+Istanbul, Besiktas, Beliz Aktas, MANAGER
+Istanbul, Kadikoy, Cansel Temel, CASHIER
+Istanbul, Kadikoy, Cankat Dede, COOK
+Istanbul, Kadikoy, Badem Tasdemir, COURIER
+Istanbul, Kadikoy, Canay Toprak, MANAGER
+Canakkale, Merkez, Beliz Ipek, CASHIER
+Canakkale, Merkez, Alev Toker, COOK
+Canakkale, Merkez, Cankut Kucuk, COURIER
+Canakkale, Merkez, Aylin Akbas, MANAGER
+Edirne, Merkez, Can Erkan, CASHIER
+Edirne, Merkez, Ayla Ay, COOK
+Edirne, Merkez, Ceyhan Yilmaz, COURIER
+Edirne, Merkez, Alara Uzun, MANAGER

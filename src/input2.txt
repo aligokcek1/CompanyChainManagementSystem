@@ -1,0 +1,36 @@
+January:
+PRINT_OVERALL_BONUSES: Antalya, Konyaalti
+PRINT_MANAGER: Antalya, Konyaalti
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Yigit Yildiz, -1000
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Eray Eroglu, 2199
+LEAVE: Antalya, Konyaalti, Eray Eroglu
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Berat Yılmaz, 799
+ADD: Antalya, Konyaalti, Kaan Cengiz, CASHIER
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Emre Bagdemir, -1001
+PRINT_MANAGER: Antalya, Konyaalti
+PRINT_MONTHLY_BONUSES: Antalya, Konyaalti
+
+February:
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Kaan Cengiz, 2601
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Eray Eroglu, -1000
+LEAVE: Antalya, Konyaalti, Eray Eroglu
+ADD: Antalya, Konyaalti, Yigit Batki, CASHIER
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Berat Yılmaz, 2001
+PRINT_MANAGER: Antalya, Konyaalti
+PRINT_MONTHLY_BONUSES: Antalya, Konyaalti
+
+March:
+LEAVE: Antalya, Konyaalti, Kaan Cengiz
+ADD: Antalya, Konyaalti, Arda Saygan, COOK
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Arda Saygan, 2198
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Berat Yılmaz, -200
+LEAVE: Antalya, Konyaalti, Emre Bagdemir
+PRINT_MANAGER: Antalya, Konyaalti
+PRINT_MONTHLY_BONUSES: Antalya, Konyaalti
+
+April:
+PERFORMANCE_UPDATE: Antalya, Konyaalti, Berat Yılmaz, 227
+LEAVE: Antalya, Konyaalti, Kaan Cengiz
+ADD: Antalya, Konyaalti, Tamer Kucukel, COURIER
+PRINT_MANAGER: Antalya, Konyaalti
+PRINT_OVERALL_BONUSES: Antalya, Konyaalti
