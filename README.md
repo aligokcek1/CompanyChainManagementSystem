@@ -1,1 +1,1 @@
-💻 You can use test files(.txt) in src file as input args. The format is --> initial.txt input.txt output.txt
+💻 You can use test files(.txt) in src file as input args. In the order of --> initial.txt input.txt output.txt
